@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cliker</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="nul">Сбросить</string>
+    <string name="count">Счет:</string>
+</resources>
